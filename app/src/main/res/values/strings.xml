@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pig</string>
+    <string name="roll">Roll!</string>
+    <string name="player2">Player 2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
